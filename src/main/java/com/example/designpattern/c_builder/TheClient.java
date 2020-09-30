@@ -1,4 +1,4 @@
-package c_builder;
+package com.example.designpattern.c_builder;
 
 
 public class TheClient {

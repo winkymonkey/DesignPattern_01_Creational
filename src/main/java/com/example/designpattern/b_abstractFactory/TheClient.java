@@ -1,4 +1,4 @@
-package b_abstractFactory;
+package com.example.designpattern.b_abstractFactory;
 
 
 public class TheClient {

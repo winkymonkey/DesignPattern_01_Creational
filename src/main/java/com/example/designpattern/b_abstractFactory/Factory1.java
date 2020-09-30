@@ -1,7 +1,7 @@
-package b_abstractFactory;
+package com.example.designpattern.b_abstractFactory;
 
 
-public class Factory2 implements AbstractFactory {
+public class Factory1 implements AbstractFactory {
 	public ProductA createA() {
 		return new ProductA1();
 	}

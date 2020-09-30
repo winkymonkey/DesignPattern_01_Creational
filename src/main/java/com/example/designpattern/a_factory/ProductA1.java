@@ -1,4 +1,4 @@
-package a_factory;
+package com.example.designpattern.a_factory;
 
 
 public class ProductA1 implements Product {
